@@ -72,7 +72,7 @@ body {
 }
 
 .wrapper .icon:hover .tooltip {
-  top: -45px;
+  top: -25px;
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
@@ -93,7 +93,7 @@ body {
 .wrapper .twitter:hover,
 .wrapper .twitter:hover .tooltip,
 .wrapper .twitter:hover .tooltip::before {
-  background: #1da1f2;
+  background: #1da0f2d8;
   color: #ffffff;
 }
 
